@@ -18,6 +18,6 @@ Hi! Here is Mslxl, a Chinese student who just programing for interest.
 
 ### Stats
 
-[![Mslxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mslxl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mslxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mslxl&count_private=true&show_icons=true&include_all_commits=true&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mslxl)](https://github.com/anuraghazra/github-readme-stats)
