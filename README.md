@@ -19,9 +19,9 @@ Hi! Here is Mslxl, a Chinese student who just programing for interest.
 ### Stats
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mslxl&theme=transparent" />
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mslxl&theme=transparent" />
 <div align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=mslxl&count_private=true&show_icons=true&include_orgs=true&theme=transparent" />
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mslxl&count_private=true&show_icons=true&include_orgs=true&theme=transparent" />
   <hr/>
   <p>It seems like a green hand, isn't it?</p>
 </div>
