@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 Hi! Here is Mslxl, a Chinese student who just programing for interest.
 
 **Warning**: This user's words may include the following contents:
-- Grammatical confusion
-- Spelling mistakes
+- Grammatical Confusion
+- Spelling Mistakes
 - Ancient Technology
-- Native Language Fundamentalism
-- unsafe impl !PoliticalRight for Me {}
+- Compiled Language Fundamentalism
+- unsafe impl !PoliticalCorrectness for Me {}>
 - Pigeon
 - Poor Design
 - Socialism
