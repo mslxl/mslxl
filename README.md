@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 -->
 Hi! Here is Mslxl, a Chinese student who just programing for interest.
 
+**Warning**: This user's words may include the following contents:
+- Grammatical confusion
+- Spelling mistakes
+- Ancient Technology
+- Native Language Fundamentalism
+- unsafe impl !PoliticalRight for Me {}
+- Pigeon
+- Poor Design
+- Socialism
+
+If you fell uncomfortable, please adapt as soon as possible😜
+
+
 ### Stats
 
 
