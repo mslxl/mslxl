@@ -21,7 +21,6 @@ Hi! Here is Mslxl, a Chinese student who just programing for interest.
 - Spelling Mistakes
 - Ancient Technology
 - Compiled Language Fundamentalism
-- `unsafe impl !PoliticalCorrectness for Me {}`
 - Pigeon
 - Poor Design
 - Socialism
