@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! Here is Mslxl, a Chinese student who just programing for interest.
+Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance and Economics.
 
 **Warning**: This user's words may include the following contents:
 - Grammatical Confusion
