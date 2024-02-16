@@ -7,6 +7,7 @@ Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance a
 - Spelling Mistakes
 - Ancient Technology
 - Compiled Language Fundamentalism
+- `unsafe impl !PoliticalCorrectness for Me {}`
 - Pigeon
 - Poor Design
 - Socialism
