@@ -32,7 +32,7 @@ Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance a
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011%28gaming%29-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ### Stats
 
 <table>
