@@ -7,13 +7,31 @@ Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance a
 - Spelling Mistakes
 - Ancient Technology
 - Compiled Language Fundamentalism
-- `unsafe impl !PoliticalCorrectness for Me {}`
 - Pigeon
 - Poor Design
 - Socialism
 
-If you fell uncomfortable, please adapt as soon as possible😜
+### What I am prefer
 
+<!-- If you want to use it too, icons are here: https://simpleicons.org/? -->
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Haskell](https://img.shields.io/badge/haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Phoenix](https://img.shields.io/badge/Phoenix-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=white)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-%23EF3939.svg?style=for-the-badge&logo=vivaldi&logoColor=white)
+![NuShell](https://img.shields.io/badge/nushell-%234E9A06.svg?style=for-the-badge&logo=nushell&logoColor=white)
+![GNU Emacs](https://img.shields.io/badge/GNU%20Emacs-%237F5AB6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011%28gaming%29-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 ### Stats
 
