@@ -27,7 +27,7 @@ Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance a
 ![Phoenix](https://img.shields.io/badge/Phoenix-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=white)
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-%23EF3939.svg?style=for-the-badge&logo=vivaldi&logoColor=white)
 ![NuShell](https://img.shields.io/badge/nushell-%234E9A06.svg?style=for-the-badge&logo=nushell&logoColor=white)
-![GNU Emacs](https://img.shields.io/badge/GNU%20Emacs-%237F5AB6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GNU Emacs](https://img.shields.io/badge/GNU%20Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnuemacs&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
