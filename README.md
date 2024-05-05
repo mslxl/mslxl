@@ -31,6 +31,7 @@ Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance a
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![XMonad](https://img.shields.io/badge/XMonad-3D3846.svg?style=for-the-badge&logo=xdotorg&logoColor=FD4D5E)
 ![Windows 11](https://img.shields.io/badge/Windows%2011%28gaming%29-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ### Stats
