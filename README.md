@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mslxl&count_private=true&show_icons=true&include_orgs=true&theme=transparent" />
+<table align='right'>
+<tr><td><img src="https://github-readme-stats.vercel.app/api?username=mslxl&hide_border=true&show_icons=true&include_orgs=true" width="400"></td></tr>
+<tr></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mslxl&hide_border=true&layout=compact" align="center"/></td></tr>
+
+<!--
+<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mslxl" width="400" /></td></tr>
+-->
+</table>
 
 Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance and Economics.
 
@@ -14,10 +22,7 @@ Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance a
 - Ugly Design
 - Poor Code
 
-### What I am prefer
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mslxl&&layout=donut"/>
-
+### What I prefer
 
 <!-- If you want to use it too, icons are here: https://simpleicons.org/? -->
 
