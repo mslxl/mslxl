@@ -45,4 +45,6 @@ Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance a
 
 It seems like a green hand, isn't it?
 
+![moe counter@mslxl](https://count.getloli.com/get/@mslxl??theme=gelbooru)
+
 
