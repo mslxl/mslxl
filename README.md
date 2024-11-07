@@ -10,7 +10,7 @@
 -->
 </table>
 
-Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance and Economics.
+Hi! Mslxl desu, an undergraduate studying in Shandong University of Finance and Economics.
 
 **Warning**: This user's words may include the following contents:
 - Grammatical Confusion
@@ -45,6 +45,6 @@ Hi! Here is Mslxl, an undergraduate studying in Shandong University of Finance a
 
 It seems like a green hand, isn't it?
 
-![moe counter@mslxl](https://count.getloli.com/get/@mslxl??theme=gelbooru)
+![moe counter@mslxl](https://count.getloli.com/@mslxl?name=mslxl&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 
