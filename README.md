@@ -10,6 +10,9 @@
 -->
 </table>
 
+![Wakatime 1day](https://wakatime.mslxl.com/api/badge/mslxl/interval:today?label=today)
+![Wakatime 30days](https://wakatime.mslxl.com/api/badge/mslxl/mslxl/interval:30_days?label=last%2030d&color=blue)
+
 Hi! Mslxl desu, an undergraduate studying in Shandong University of Finance and Economics.
 
 **Warning**: This user's words may include the following contents:
@@ -43,8 +46,7 @@ Hi! Mslxl desu, an undergraduate studying in Shandong University of Finance and 
 ![Hyprland](https://img.shields.io/badge/Hyprland-%23000000.svg?style=for-the-badge&logo=hyprland&logoColor=%2358E1FF)
 ![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 
-It seems like a green hand, isn't it?
 
 ![moe counter@mslxl](https://count.getloli.com/@mslxl?name=mslxl&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-
+It seems like a green hand, isn't it?
