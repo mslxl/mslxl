@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 <table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=mslxl&hide_border=true&show_icons=true&include_orgs=true" width="400"></td></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api?username=mslxl&hide_border=true&show_icons=true&include_orgs=true&rank_icon=percentile" width="400"></td></tr>
 <tr></tr>
-<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mslxl&hide_border=true&layout=compact" align="center"/></td></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mslxl&api_domain=wakatime.mslxl.com&custom_title=Wakapi%20Week%20Stats&layout=compact&hide_border=true" width="400"/></td></tr>
 
 <!--
+<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mslxl&hide_border=true&layout=compact" align="center"/></td></tr>
 <tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mslxl" width="400" /></td></tr>
 -->
 </table>
