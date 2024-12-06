@@ -14,7 +14,9 @@
 ![Wakatime 1day](https://wakatime.mslxl.com/api/badge/mslxl/interval:today?label=today)
 ![Wakatime 30days](https://wakatime.mslxl.com/api/badge/mslxl/mslxl/interval:30_days?label=last%2030d&color=blue)
 
-Hi! Mslxl desu, an undergraduate studying in Shandong University of Finance and Economics.
+Hi. Here is mslxl, an undergraduate student with more ideas than sleep.
+
+Language: 中文(母语), English(Intermediate), 日本語(読むことができますが、話す能力は限られています)
 
 **Warning**: This user's words may include the following contents:
 - Grammatical Confusion
