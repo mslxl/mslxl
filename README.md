@@ -12,7 +12,7 @@
 </table>
 
 ![Wakatime 1day](https://wakatime.mslxl.com/api/badge/mslxl/interval:today?label=today)
-![Wakatime 30days](https://wakatime.mslxl.com/api/badge/mslxl/mslxl/interval:30_days?label=last%2030d&color=blue)
+![Wakatime 7days](https://wakatime.mslxl.com/api/badge/mslxl/mslxl/interval:7_days?label=last%207d&color=blue)
 
 Hi. Here is mslxl, an undergraduate student with more ideas than sleep.
 
