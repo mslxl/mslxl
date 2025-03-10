@@ -16,7 +16,7 @@
 
 Hi. Here is mslxl, an undergraduate student with more ideas than sleep.
 
-Language: 中文(母语), English(Intermediate), 日本語(読むことができますが、話す能力は限られています)
+Language: 中文(母语), English(Intermediate), 日本語(私日本語本当苦手)
 
 **Warning**: This user's words may include the following contents:
 - Grammatical Confusion
